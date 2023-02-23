@@ -1,3 +1,7 @@
+<div>
+  <img src="https://github.com/Ak-ko/Ak-ko/blob/main/greeting.gif" width="100%" >
+</div>
+
 <h1 align="center">Hi 👋, I'm Aung Khant</h1>
 <h3 align="center">A Lonely Developer</h3>
 <br>
