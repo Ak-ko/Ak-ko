@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/aung-khant-ko-ko-6525b1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aung-khant-ko-ko-6525b1214" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aung-khant-ko-ko-6525b1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aung-khant-ko-ko-6525b1214" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100008789864076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100008789864076" height="30" width="40" /></a>
 </p>
 
