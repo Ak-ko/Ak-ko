@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/Ak-ko/Ak-ko/blob/main/greeting.gif" width="100%" >
+  <img src="https://github.com/Ak-ko/Ak-ko/blob/main/text.gif" width="100%" >
 </div>
 
 <h1 align="center">Hi 👋, I'm Aung Khant</h1>
